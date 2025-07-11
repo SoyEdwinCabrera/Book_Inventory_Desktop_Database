@@ -1,3 +1,3 @@
 # Book_Inventory_Desktop_Database
 
-![Interface](/img/interface.jpeg)
+![Interface](/utils/interface.jpeg)
