@@ -128,7 +128,7 @@ Este script contiene la lógica para interactuar con la base de datos SQLite. Aq
 
 1. **Clona el repositorio**:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/SoyEdwinCabrera/Book_Inventory_Desktop_Database.git
    cd Book_Inventory_Desktop_Database
    ```
 
