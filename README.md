@@ -31,6 +31,8 @@ La aplicación está construida utilizando `tkinter` para la interfaz gráfica y
 4. **Portabilidad**:
    - La aplicación puede ser empaquetada como un ejecutable para facilitar su distribución.
 
+![Interface](/utils/tkinter_interface.jpeg)
+
 ---
 
 ## Dependencias
